@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventHandler</string>
+    <string name="example_register">Register now</string>
+    <string name="example_term"><u>Syarat &amp; Ketentuan Kami</u></string>
+</resources>
